@@ -12,10 +12,10 @@
 
 
 ## Ontology/Taxonomy
-+ [SNOMED CT](https://www.snomed.org/), with a [online browser](http://browser.ihtsdotools.org/)  for clinical terms.  ```SNOMED CT: 
-Is the most comprehensive, multilingual clinical healthcare terminology in the world 
-Is a resource with comprehensive, scientifically validated clinical content
-Enables consistent, processable representation of clinical content in electronic health records
-Is mapped to other international standards
-Is already used in more than fifty countries```
++ [SNOMED CT](https://www.snomed.org/), with a [online browser](http://browser.ihtsdotools.org/)  for clinical terms.  ```SNOMED CT:
+  ++ the most comprehensive, multilingual clinical healthcare terminology in the world 
+ ++ a resource with comprehensive, scientifically validated clinical content
+ ++ Enables consistent, processable representation of clinical content in electronic health records
+ ++ mapped to other international standards
+ += already used in more than fifty countries```
 +
