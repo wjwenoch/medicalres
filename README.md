@@ -9,3 +9,13 @@
 + [Stedman's](https://www.drugs.com/medical_dictionary.html#a2z) -> from Drugs.com, cab crawl and save locally. Limited.
 
 + [Medlineplus](https://medlineplus.gov/ency/encyclopedia_A.htm) -> from medline, mixed with general article.
+
+
+## Ontology/Taxonomy
++ [SNOMED CT](https://www.snomed.org/), with a [online browser](http://browser.ihtsdotools.org/)  for clinical terms.  ```SNOMED CT: 
+Is the most comprehensive, multilingual clinical healthcare terminology in the world 
+Is a resource with comprehensive, scientifically validated clinical content
+Enables consistent, processable representation of clinical content in electronic health records
+Is mapped to other international standards
+Is already used in more than fifty countries```
++
