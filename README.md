@@ -18,4 +18,6 @@
   + Enables consistent, processable representation of clinical content in electronic health records
   + mapped to other international standards
   + already used in more than fifty countries
-+
++ [UMLS](https://www.nlm.nih.gov/research/umls/)
+  + The UMLS, or Unified Medical Language System, is a set of files and software that brings together many health and biomedical vocabularies and standards to enable interoperability between computer systems.
+  + The UMLS has three tools, which we call the Knowledge Sources. Metathesaurus: Terms and codes from many vocabularies, including CPT®, ICD-10-CM, LOINC®, MeSH®, RxNorm, and SNOMED CT®. Semantic Network: Broad categories (semantic types) and their relationships (semantic relations). SPECIALIST Lexicon and Lexical Tools: Natural language processing tools
